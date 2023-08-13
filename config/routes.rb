@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+  post '/get_client_token', to: 'tokens#get_client_token'
+  get '/all_plants', to: 'plants#all_plants'
 end

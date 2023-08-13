@@ -12,6 +12,12 @@ module Hortodosbarros
     config.load_defaults 7.0
 
     # Configuration for the application, engines, and railties goes here.
+    config.middleware.insert_before 0, Rack::Cors do
+      allow do
+        origins 'http://localhost:3000', 'http://localhost:3001' # Replace with your frontend URL
+        resource '*', headers: :any, methods: [:get, :post, :options]
+      end
+    end
     #
     # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
