@@ -786,3 +786,273 @@ Processing by PlantsController#all_plants as HTML
 Completed 200 OK in 400ms (Views: 13.5ms | ActiveRecord: 0.0ms | Allocations: 11292)
 
 
+Started GET "/all_plants" for ::1 at 2023-08-13 20:10:27 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.35ms)
+Completed 200 OK in 365ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 11653)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:10:58 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (18.71ms)
+Completed 200 OK in 361ms (Views: 19.6ms | ActiveRecord: 0.0ms | Allocations: 11282)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:12:22 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.88ms)
+Completed 200 OK in 529ms (Views: 12.5ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:12:34 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.62ms)
+Completed 200 OK in 229ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 11281)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:22:25 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (13.61ms)
+Completed 200 OK in 428ms (Views: 15.3ms | ActiveRecord: 0.0ms | Allocations: 11285)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:23:05 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (11.83ms)
+Completed 200 OK in 494ms (Views: 12.9ms | ActiveRecord: 0.0ms | Allocations: 11293)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:23:55 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (15.03ms)
+Completed 200 OK in 463ms (Views: 15.9ms | ActiveRecord: 0.0ms | Allocations: 11285)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:35:39 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (7.7ms)
+Completed 200 OK in 425ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 11285)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:35:43 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (13.53ms)
+Completed 200 OK in 335ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 11289)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 20:52:59 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (6.69ms)
+Completed 200 OK in 425ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 11283)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:30:15 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.57ms)
+Completed 200 OK in 455ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 11299)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:31:51 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.14ms)
+Completed 200 OK in 447ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 11281)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:32:01 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (11.75ms)
+Completed 200 OK in 237ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 11286)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:33:03 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.08ms)
+Completed 200 OK in 363ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 11283)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:35:20 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (12.8ms)
+Completed 200 OK in 390ms (Views: 14.5ms | ActiveRecord: 0.0ms | Allocations: 11286)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:37:01 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.69ms)
+Completed 200 OK in 517ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 11282)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:37:26 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.47ms)
+Completed 200 OK in 235ms (Views: 11.0ms | ActiveRecord: 0.0ms | Allocations: 11287)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:54:51 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (11.1ms)
+Completed 200 OK in 592ms (Views: 12.9ms | ActiveRecord: 0.0ms | Allocations: 11280)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:57:17 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (17.52ms)
+Completed 200 OK in 424ms (Views: 18.6ms | ActiveRecord: 0.0ms | Allocations: 11279)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:57:27 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (7.94ms)
+Completed 200 OK in 348ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 11293)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:58:04 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (12.87ms)
+Completed 200 OK in 379ms (Views: 13.6ms | ActiveRecord: 0.0ms | Allocations: 11284)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:58:13 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.55ms)
+Completed 200 OK in 246ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 11290)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:58:26 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (11.41ms)
+Completed 200 OK in 675ms (Views: 12.5ms | ActiveRecord: 0.0ms | Allocations: 11283)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:59:10 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.93ms)
+Completed 200 OK in 481ms (Views: 10.0ms | ActiveRecord: 0.0ms | Allocations: 11282)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 21:59:59 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (9.61ms)
+Completed 200 OK in 492ms (Views: 10.5ms | ActiveRecord: 0.0ms | Allocations: 11280)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:03:10 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.23ms)
+Completed 200 OK in 418ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 11283)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:04:19 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (12.17ms)
+Completed 200 OK in 363ms (Views: 12.9ms | ActiveRecord: 0.0ms | Allocations: 11289)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:05:13 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (16.45ms)
+Completed 200 OK in 416ms (Views: 17.2ms | ActiveRecord: 0.0ms | Allocations: 11284)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:05:44 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (13.23ms)
+Completed 200 OK in 465ms (Views: 14.0ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:05:51 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.24ms)
+Completed 200 OK in 268ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:06:04 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (9.0ms)
+Completed 200 OK in 434ms (Views: 10.0ms | ActiveRecord: 0.0ms | Allocations: 11282)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:06:50 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (6.79ms)
+Completed 200 OK in 394ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 11287)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:07:00 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.33ms)
+Completed 200 OK in 220ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 11287)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:07:52 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (14.71ms)
+Completed 200 OK in 416ms (Views: 15.7ms | ActiveRecord: 0.0ms | Allocations: 11286)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:08:28 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (13.31ms)
+Completed 200 OK in 408ms (Views: 14.4ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:08:49 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (11.03ms)
+Completed 200 OK in 289ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 11283)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:09:25 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (7.42ms)
+Completed 200 OK in 469ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:09:44 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.26ms)
+Completed 200 OK in 324ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:10:09 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.85ms)
+Completed 200 OK in 383ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:10:18 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (13.19ms)
+Completed 200 OK in 411ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 11287)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:10:41 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (5.66ms)
+Completed 200 OK in 457ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:14:19 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (9.92ms)
+Completed 200 OK in 396ms (Views: 11.0ms | ActiveRecord: 0.0ms | Allocations: 11281)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:14:28 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (10.09ms)
+Completed 200 OK in 375ms (Views: 11.0ms | ActiveRecord: 0.0ms | Allocations: 11288)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:43:32 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (8.98ms)
+Completed 200 OK in 720ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 11284)
+
+
+Started GET "/all_plants" for ::1 at 2023-08-13 22:43:33 +0200
+Processing by PlantsController#all_plants as HTML
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (22.42ms)
+Completed 200 OK in 405ms (Views: 23.5ms | ActiveRecord: 0.0ms | Allocations: 11287)
+
+
